@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="ClassLibrary_get_dictionary">
+      <HintPath>..\..\ClassLibrary_get_dictionary\ClassLibrary_get_dictionary\bin\Debug\netcoreapp3.0\ClassLibrary_get_dictionary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
